@@ -19,7 +19,7 @@ This software is intended for harmless fun only. Use it responsibly and ensure t
 
 ## 🛠️ Installation
 
-1. Download the SafeTroll executable from the [Releases](https://github.com/yourusername/SafeTroll/releases) page.
+1. Download the SafeTroll executable from the [Releases](https://github.com/Swastik-Sarkar/SafeTroll/releases) page.
 2. Run the installer on the target computer.
 3. SafeTroll will automatically start on the next reboot.
 
@@ -45,10 +45,6 @@ This software is intended for harmless fun only. Use it responsibly and ensure t
 - **Controlled Disable:** The prank can only be stopped with the `SafeTroll -disable` command in `cmd.exe`, ensuring it’s not easily turned off.
 - **Preloaded Content:** Users cannot add or edit prank messages or sound effects, ensuring the software remains consistent and appropriate.
 - **No Permanent Changes:** SafeTroll doesn’t modify any critical system settings or files.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 🤔 Questions or Suggestions?
 
