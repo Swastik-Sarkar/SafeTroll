@@ -48,7 +48,7 @@ This software is intended for harmless fun only. Use it responsibly and ensure t
 
 ## 🤔 Questions or Suggestions?
 
-For support or feedback, open an issue on GitHub or contact me at [your-email@example.com](mailto:your-email@example.com).
+For support or feedback, open an issue on GitHub or contact me at [instagram](instagram.com/kb_swastik).
 
 ---
 
