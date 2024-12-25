@@ -1,0 +1,10 @@
+[first-run]
+creates registry change for auto run during startup and adds a new command on cmd.exe "SafeTroll" with arguments "-disable", "-help", "-uninstall", "-enable".
+
+[pre-run]
+Check "config.json" file if it's the first run, all the necessary files exist and all the registry changes exist.
+
+[post-run]
+randomly execute popups with random time intervals.
+random sounds.
+random scary popups (rare).
